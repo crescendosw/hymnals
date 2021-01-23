@@ -1,13 +1,13 @@
-title      Psalm 119
+title      Do Not Foresake Your Servant Now
 hymnal     Cantus Christi
 author     Doug Wilson, 2019 (c)
 psalm      119
 copyright  text: Doug Wilson, 2019; arr. Mark Reagan, 2019
-# music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/229%20Before%20Thee%20Let%20My%20Cry%20-%20Psalm%20119%20RUSSIA.pdf
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/228%20Psalm%20119%20GREENSIDES.pdf
 
-tune       RUSSIA
+tune       GREENSIDES
 #metre
-composer   Doug Wilson, Mark Reagan
+composer   Doug Wilson, Mark Reagan 2019 (c)
 key        D
 rhythm     2 : 2
 tempo      170
@@ -18,10 +18,10 @@ voice      tenor   E3 to D4
 voice      bass    A2 to G3
 
 
-soprano     d-  f  |  a/2.  b  | d/2  b/2 |  a/2.  f  |  e/2  d-/2  |  f/2.  a  | b/2  d/2  | e+/1 = |  e+/2  d-  f
-alto        d/2    |  d/2.  d  | f/2  e/2 |  f/2  c/2 |  b/2  d/2   | c/2  d/2  | d/2.  a+   | a+/1 =  | a+/2  d/2
-tenor       f/2    |  f/2.  g  |  b/2  b/2  |  c/2.  a  |  f/2  b/2  | a/2.  d | d/2  d e+ | c/1 = | c/2  d/2
-bass        d/2  | d/2.  d  | b/2  g/2  | f/2.  f  | b/2  b/2  |  f/2.  f  |  g/2  b+/2  |  a+/1 = | a+/2  d/2
+soprano     d-  f |  a/2.  b  | d/2  b/2 |  a/2. f   | e/2  d-/2 | f/2. a   | b/2  d/2  | e+/1 = | e+/2  d-  f
+alto        d   d |  d/2.  d  | f/2  e/2 |  f/2  c/2 | b/2  d/2  | c/2  d/2 | d/2.  a+  | a+/1 = | a+/2  d d
+tenor       f   f |  f/2.  g  | b/2  b/2 |  c/2. a   | f/2  b/2  | a/2. d   | d/2  d e+ | c/1 = | c/2  d d
+bass        d   d |  d/2.  d  | b/2  g/2 |  f/2. f   | b/2  b/2  | f/2. f   | g/2  b+/2  |  a+/1 = | a+/2  d d
 
 soprano     a/2.  b  | d/2  b/2 |  a/2.  f  |  e/2  f/2  |  e/2.  f    | e  e  d-  e  | b-/1 = |  b-/2  R/2
 alto        d/2.  d  | f/2  e/2 |  f/2  c/2 |  c/2  d/2   |  b/2   c/2  | d  c  b   a | b/1 =  |  b/2  f/2
