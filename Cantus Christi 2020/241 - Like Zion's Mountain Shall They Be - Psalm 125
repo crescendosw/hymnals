@@ -55,10 +55,10 @@ tenor      bb/2 c
 bass       eb/2 ab
 
 # measure 8
-soprano    f/2.
+soprano    f/2. =
 alto       eb d c
 tenor      f/2.
-bass       bb/2.
+bass       bb/2. =
 
 # measure 9
 soprano    f/2 g
@@ -103,10 +103,10 @@ tenor      bb/2 ab
 bass       bb/2 bb
 
 # measure 16
-soprano    eb/2.
+soprano    eb/2. =
 alto       eb c ab
 tenor      g ab f
-bass       eb/2.
+bass       eb/2. =
 
 # measure 17
 soprano    eb/2
