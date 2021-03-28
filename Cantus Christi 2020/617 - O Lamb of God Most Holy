@@ -24,10 +24,10 @@ tenor      c c/8 bb/16 a/16 g c
 bass       a bb bb a/8 g-/8
 
 # measure 3
-soprano    d/2 c c
-alto       a+ g/8 f/8 e e
-tenor      c bn g a
-bass       f- g- c a
+soprano    d/2 c(1) c
+alto       a+ g/8 f/8 e(1) e
+tenor      c bn g(1) a
+bass       f- g- c(1) a
 
 # measure 4
 soprano    f g a bb
@@ -36,10 +36,10 @@ tenor      a g f f/8 d/8
 bass       d e f/8 e/8 d/8 bb/8
 
 # measure 5
-soprano    a g/8 f/8 f f
-alto       f/8 e/16 d/16 e c c
-tenor      c. = c/16 bb/16 a a/8 bb/8
-bass       c c- f- f-/8 g-/8
+soprano    a g/8 f/8 f(1) f
+alto       f/8 e/16 d/16 e c(1) c
+tenor      c. = c/16 bb/16 a(1) a/8 bb/8
+bass       c c- f-(1) f-/8 g-/8
 
 # measure 6
 soprano    f f c c
@@ -48,10 +48,10 @@ tenor      c c/8 bb/16 a/16 g c
 bass       a bb bb a/8 g-/8
 
 # measure 7
-soprano    d/2 c c
-alto       a+ g/8 f/8 e e
-tenor      c bn g a
-bass       f- g- c a
+soprano    d/2 c(1) c
+alto       a+ g/8 f/8 e(1) e
+tenor      c bn g(1) a
+bass       f- g- c(1) a
 
 # measure 8
 soprano    f g a bb
@@ -60,10 +60,10 @@ tenor      a g f f/8 d/8
 bass       d e f/8 e/8 d/8 bb/8
 
 # measure 9
-soprano    a g/8 f/8 f a
-alto       f/8 e/16 d/16 e c f
-tenor      c. = c/16 bb/16 a c
-bass       c c- f- f
+soprano    a g/8 f/8 f(1) a
+alto       f/8 e/16 d/16 e c(1) f
+tenor      c. = c/16 bb/16 a(1) c
+bass       c c- f-(1) f
 
 # measure 10
 soprano    a a g a
@@ -72,10 +72,10 @@ tenor      c d d a
 bass       f/8 e/8 d/8 c/8 bn c#
 
 # measure 11
-soprano    f/8 e/8 d- c- c
-alto       d/8 c bn/8 g- eb
-tenor      a/8 g/8 a/8 g/16 f/16 e f
-bass       d/8 e/8 f/8 g/8 c a
+soprano    f/8 e/8 d- c-(1) c
+alto       d/8 c bn/8 g-(1) eb
+tenor      a/8 g/8 a/8 g/16 f/16 e(1) f
+bass       d/8 e/8 f/8 g/8 c(1) a
 
 # measure 12
 soprano    d c c a/8 bb/8
@@ -84,10 +84,10 @@ tenor      f/8 g/8 a/8 bb/8 c c/8 d/8
 bass       bb f f/8 e/8 f
 
 # measure 13
-soprano    c bb a d
-alto       a+. g/8 g/8 f#/8 g
-tenor      eb+ d d d/8 f+/8
-bass       f/8 f#/8 g/8 g-/8 d bb/8 bn/8
+soprano    c bb a(1) d
+alto       a+. g/8 g/8 f#/8(1) g
+tenor      eb+ d d(1) d/8 f+/8
+bass       f/8 f#/8 g/8 g-/8 d(1) bb/8 bn/8
 
 # measure 14
 soprano    c/8 bb/8 a g a

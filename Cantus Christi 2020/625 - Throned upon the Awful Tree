@@ -54,10 +54,10 @@ tenor      d bb/8 c/8 d bb
 bass       bb+ bb+/8 a+/8 g f
 
 # measure 8
-soprano    c bb bb a
-alto       g eb d/2
-tenor      g g g f#
-bass       eb c d/2
+soprano    c bb bb a(1)
+alto       g eb d/2(1)
+tenor      g g g f#(1)
+bass       eb c d/2(1)
 
 # measure 9
 soprano    d- g g/8 f#/8 en/8 d-/8
