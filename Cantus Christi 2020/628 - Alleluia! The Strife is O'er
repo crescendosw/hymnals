@@ -15,7 +15,7 @@ voice      bass    A2 to G3
 soprano    R f# f#
 alto       R d d
 tenor      R a a
-bass       R d- d d
+bass       R d d
 
 # measure 2
 soprano    g/2.
@@ -129,7 +129,7 @@ bass       a+/2.
 soprano    R a d
 alto       R d f#
 tenor      R d a
-bass       R d- f#
+bass       R f# d
 
 # measure 21
 soprano    c#/2.
