@@ -11,6 +11,7 @@ harmony    arr. Ralph Vaughan Williams, 1906
 key        F
 rhythm     4 : 4
 tempo      160
+type       unison
 
 status     header  tune  double  checked  lyrics
 
@@ -61,3 +62,4 @@ verse      earth de - scend - eth, Our  full hom  - age  to       de - mand.
 verse      all   the  faith - ful  His  own  self   for  heav'n - ly   food.
 verse      hell  may  van  -  ish  As   the  dark - ness clears   a -  way.
 verse      al -  le - lu   -  ia.  Al - le - lu  -  ia,  Lord     Most High!
+
