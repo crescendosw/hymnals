@@ -12,6 +12,7 @@ composer   Plainsong (Mode VIII)
 key        A
 rhythm     0 : 4
 tempo      80
+type       unison
 
 status     header  tune  double  checked  lyrics
 
