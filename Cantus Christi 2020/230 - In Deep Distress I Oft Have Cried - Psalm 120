@@ -48,10 +48,10 @@ tenor      b c b c
 bass       e d# e a
 
 # measure 7
-soprano    g f# e a
-alto       e d# e c
-tenor      b b/8 a/8 g a
-bass       b b e a
+soprano    g f#      e(1.2) a
+alto       e d#      e(1.2) c
+tenor      b b/8 a/8 g(1.2) a
+bass       b b       e(1.2) a
 
 # measure 8
 soprano    e d- c- a
@@ -84,10 +84,10 @@ tenor      a g# a a
 bass       e d c d
 
 # measure 13
-soprano    c b a
-alto       e e/8 d/8 c
-tenor      a g# a
-bass       e e a
+soprano    c b a(1.2)
+alto       e e/8 d/8 c(1.2)
+tenor      a g# a(1.2)
+bass       e e a(1.2)
 
 
 
