@@ -115,10 +115,10 @@ tenor      f#. b/8 f#/8 g/8
 bass       b. b/8 a/8 g-/8
 
 # measure 18
-soprano    a f# e
-alto       d d d
-tenor      a b a
-bass       f#- g- a
+soprano    a f# e =
+alto       d d d -
+tenor      a b a =
+bass       f#- g- a =
 
 # measure 19
 soprano    e/2 R/8 d-/8
