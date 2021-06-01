@@ -2,7 +2,7 @@ title      O God, Lend Me Your Ear
 author     Donald P. Owens II, 2018 (c) LLYFNANT
 composer   John Thomas Rees (1857-1949)
 key        Ab
-tempo      80
+tempo      90
 rhythm     4 : 4
 verse_count 8
 copyright  Text: Donald P. Owens II, 2018. All Rights Reserved. Used by permission. 106 Text: Donald P. Owens II, 2018. All Rights Reserved. Used by permission.
@@ -28,7 +28,7 @@ bass       f. f/8 f f
 soprano    g/2. g
 alto       db/2. db
 tenor      bb/2. bb
-bass       f/2 en e
+bass       f/2 en en
 
 # measure 4
 soprano    ab. f/8 eb c
@@ -37,10 +37,10 @@ tenor      ab. ab/8 bb ab
 bass       f. f/8 g ab+
 
 # measure 5
-soprano    bb/2 ab ab
-alto       db/2 c eb
-tenor      f g ab c
-bass       db eb ab ab+
+soprano    bb/2 ab(1.2) ab
+alto       db/2 c(1.2) eb
+tenor      f g ab(1.2) c
+bass       db eb ab(1.2) ab+
 
 # measure 6
 soprano    c. bb/8 bb ab
@@ -50,7 +50,7 @@ bass       ab+ eb f f
 
 # measure 7
 soprano    db. bb/8 g g
-alto       bb+. g/8 en e
+alto       bb+. g/8 en en
 tenor      f+. db/8 c c
 bass       bb bb c bb
 
@@ -61,8 +61,8 @@ tenor      c ab db c/8 db/8
 bass       ab db g- ab/8 bb/8
 
 # measure 9
-soprano    g/2 f
-alto       f en f
-tenor      c bb ab
-bass       c/2 f-
+soprano    g/2 f(1.2)
+alto       f en f(1.2)
+tenor      c bb ab(1.2)
+bass       c/2 f-(1.2)
 
