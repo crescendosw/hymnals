@@ -31,7 +31,7 @@ unison     b/8 - a/8 b/8 c/8 d d- | a a/2 a | b/8 a/8 b/8 c/8 d f/8 - g/8 | a a/
 
 unison     f a/8 a/8 a b/8 c/8 | d d- a d- | g/8 - a/8 - b/8 - a/8 g/8 - f/8 e/8 - d-/8 | e d- d- - c- | d-/1
 
-unison     b f d- c-/8 b-/8 | c-/8 - d-/8 e f | d- e/8 f/8 e/8 - d-/8 c-/8 - b-/8 | a#-/2. f
+unison     b f d- c-/8 b-/8 | c-/8 - d-/8 e/2 f | d- e/8 f/8 e/8 - d-/8 c-/8 - b-/8 | a#-/2. f
 
 unison     b/8 f/8 b/8 c/8 d/8 c/8 b/8 - d/8 | c/8 - b/8 a#/8 g#/8 f/8 e/8 d-/8 - c-/8 | d-/8 b-/8 d-/8 f/8 e/8 f/8 g/8 a/8 | a/2. a/8 a/8
 
