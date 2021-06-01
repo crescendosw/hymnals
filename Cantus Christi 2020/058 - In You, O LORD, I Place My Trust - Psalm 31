@@ -2,7 +2,7 @@ title      In You, O LORD, I Place My Trust
 author     Anonymous
 composer   Anonymous
 key        C
-tempo      113
+tempo      120
 rhythm     6 : 4
 verse_count 4
 copyright  Music & Text: Ben Zornes, 2018. Used by permission.
@@ -25,10 +25,10 @@ tenor      c/2. e g. g/8
 bass       c/2. c b. b/8
 
 # measure 3
-soprano    e/1 e d-
-alto       c/1 b b
-tenor      a/1 e e
-bass       a/1 g- g-
+soprano    e/1 e  - d-
+alto       c/1 b  = b
+tenor      a/1 e  = e
+bass       a/1 g- = g-
 
 # measure 4
 soprano    c-/2. e d-. e/8
