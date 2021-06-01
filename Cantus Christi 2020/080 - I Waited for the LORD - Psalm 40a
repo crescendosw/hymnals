@@ -2,7 +2,7 @@ title      I Waited for the LORD
 author     The Book of Psalms for Singing, 1973 (c)FINGAL
 composer   Irish traditional melody; arr. Leopold L. Dix, 1933 
 key        F
-tempo      101
+tempo      110
 rhythm     3 : 4
 verse_count 5
 copyright  Text: Crown & Covenant Publications, 1973. Used by permission.
@@ -43,10 +43,10 @@ tenor      f/2 c
 bass       a/2 c
 
 # measure 6
-soprano    a/2 g
-alto       f/2 e
-tenor      c/2.
-bass       f/2 c
+soprano    a/2 - g(1.8)
+alto       f/2 - e(1.8)
+tenor      c/2.(1.8)
+bass       f/2 - c(1.8)
 
 # measure 7
 soprano    a d d
@@ -115,10 +115,10 @@ tenor      d/2 bb
 bass       d/2 g
 
 # measure 18
-soprano    f/2 g
-alto       d/2 e
-tenor      a/2 c
-bass       d/2 c
+soprano    f/2 g(1.8)
+alto       d/2 e(1.8)
+tenor      a/2 c(1.8)
+bass       d/2 c(1.8)
 
 # measure 19
 soprano    a d d
