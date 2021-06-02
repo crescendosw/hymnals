@@ -86,7 +86,7 @@ bass       f#/8 e/8 d e/2
 # measure 13
 soprano    b a g g
 alto       g f# e e
-tenor      f#/8 e/8 d- e/2
+tenor      f#/8 e/8 d- e/2 =
 bass       d/2 b/2
 
 # measure 14
@@ -115,21 +115,21 @@ bass       g f# e e
 
 # measure 18
 soprano    R/2. g
-alto       e e g/2
+alto       e e g/2 =
 tenor      b b g e
-bass       b b e/2
+bass       b b e/2 =
 
 # measure 19
 soprano    b a g g
-alto       g/1
-tenor      g a b/2
-bass       e/1
+alto       g/1 =
+tenor      g a b/2 =
+bass       e/1 =
 
 # measure 20
 soprano    b g b b
-alto       e g/2.
+alto       g/2. e
 tenor      b/2. g
-bass       e e/2.
+bass       e/2. e
 
 # measure 21
 soprano    e+ e+ d b
