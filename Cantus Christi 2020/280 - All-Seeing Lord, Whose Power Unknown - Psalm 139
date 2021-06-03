@@ -25,9 +25,9 @@ bass       g- d/2 e d d g-/2.
 
 # measure 3
 soprano    g a a a/2 a a/2 c b/2
-alto       d fn f f/2 f f/2 f g/2
+alto       d fn fn fn/2 fn fn/2 fn g/2
 tenor      g c c c/2 c c/2 c d/2
-bass       g fn f f/2 f f/2 a+ g/2
+bass       g fn fn fn/2 fn fn/2 a+ g/2
 
 # measure 4
 soprano    b a/2 g g f# g/2.
