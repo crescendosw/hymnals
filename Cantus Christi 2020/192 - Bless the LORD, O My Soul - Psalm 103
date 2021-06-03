@@ -180,10 +180,10 @@ tenor      e+/8 c#/8 b b c#/8 c#/8
 bass       b/8 a/8 g#- g#- a/8 a/8
 
 # measure 29
-soprano    g# f#/8 f#/8 g#/2
-alto       e d#/8 d#/8 e/2
-tenor      b. b/8 b/2
-bass       b. b/8 e/2
+soprano    g# f#/8 f#/8 g#/2 =
+alto       e d#/8 d#/8 e/2 =
+tenor      b. b/8 b/2 =
+bass       b. b/8 e/2 =
 
 # measure 30
 soprano    g#/8 g#/8 g#/8 g#/8 f# f#/8 e/8
