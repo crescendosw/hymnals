@@ -96,10 +96,10 @@ tenor      c c c c
 bass       f/8 e/8 f g e/8 f/8
 
 # measure 15
-soprano    bb/8 a/8 bb c e
-alto       e g f c
-tenor      c c c a
-bass       g/8 f/8 g a+ c
+soprano    bb/8 a/8 bb c(2.1) e
+alto       e g f(2.1) c
+tenor      c c c(2.1) a
+bass       g/8 f/8 g a+(2.1) c
 
 # measure 16
 soprano    f. g/8 a d-
@@ -111,7 +111,7 @@ bass       bb. bb/8 g- g-
 soprano    d-/2
 alto       d/2
 tenor      a/2
-bass       d-/2 d/2
+bass       d-/2
 
 
 
