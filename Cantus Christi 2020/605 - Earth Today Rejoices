@@ -109,7 +109,7 @@ bass       e/1
 
 # measure 17
 soprano    c b a b
-alto       e g fn f
+alto       e g fn fn
 tenor      a e+ c d
 bass       a+ e fn d
 
