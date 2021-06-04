@@ -70,7 +70,7 @@ bass       g-/2. c/8 c/8
 soprano    g/2. a/8 b/8
 alto       d/2. d/8 d/8
 tenor      g/8 a/8 b/2 d/8 d/8
-bass       b g-/2 fn/8 f/8
+bass       b g-/2 fn/8 fn/8
 
 # measure 11
 soprano    c/2. b/8 c/8
@@ -94,7 +94,7 @@ bass       g/2. c/8 c/8
 soprano    g/2. a/8 b/8
 alto       d/2. d/8 d/8
 tenor      g/8 a/8 b/2 d/8 d/8
-bass       b g-/2 fn/8 f/8
+bass       b g-/2 fn/8 fn/8
 
 # measure 15
 soprano    c/2. c/8 b/8
