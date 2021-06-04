@@ -2,7 +2,7 @@ title      From Heaven, O Praise the LORD
 author     Trinity Psalter, 1994 (c) ST. CATHERINE'S
 composer   Horatio R. Palmer (1834-1907)
 key        C
-tempo      135
+tempo      155
 rhythm     4 : 4
 verse_count 5
 copyright  Text: Crown & Covenant Publications, 2000. Used by permission.
@@ -27,13 +27,13 @@ bass       g g e c
 # measure 3
 soprano    g/2. e
 alto       g/2. c
-tenor      g/1
+tenor      g/1 =
 bass       g/2. c
 
 # measure 4
 soprano    d- e f g
 alto       b c d e
-tenor      g/1
+tenor      g/1 =
 bass       g- g- g- g-
 
 # measure 5
