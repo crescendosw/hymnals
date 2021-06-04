@@ -20,14 +20,14 @@ bass       R/8 e e/8 b c#
 # measure 2
 soprano    f# e/8 f#/8 g#. g#/8
 alto       d# c#/8 d#/8 e. e/8
-tenor      b g#/8 b/8 b. b/8
+tenor      b g#/8 b/8 = b. b/8
 bass       b c#/8 b/8 e. e/8
 
 # measure 3
-soprano    g#/2 g#/8 g#/8 g#/8 g#/8
-alto       e/2 e/8 e/8 e/8 e/8
-tenor      b/2 b/8 b/8 b/8 b/8
-bass       e/2 e/8 e/8 e/8 e/8
+soprano    g#/2 = g#/8 g#/8 g#/8 g#/8
+alto       e/2 = e/8 e/8 e/8 e/8
+tenor      b/2 = b/8 b/8 b/8 b/8
+bass       e/2 = e/8 e/8 e/8 e/8
 
 # measure 4
 soprano    b a/8 g#/8 g# f#
@@ -36,15 +36,15 @@ tenor      b c# b/2
 bass       g#- a b/2
 
 # measure 5
-soprano    g#/2 g#/8 g# g#/8
-alto       e/2 e/8 e e/8
-tenor      b/2 b/8 b b/8
-bass       e/2 e/8 e e/8
+soprano    g#/2 = g#/8 g# g#/8
+alto       e/2 = e/8 e e/8
+tenor      b/2 = b/8 b b/8
+bass       e/2 = e/8 e e/8
 
 # measure 6
 soprano    f# e f# e/8 f#/8
 alto       d# c# d# c#/8 d#/8
-tenor      b g# b g#/8 b/8
+tenor      b g# b g#/8 b/8 =
 bass       b c# b c#/8 b/8
 
 # measure 7
@@ -66,10 +66,10 @@ tenor      b c# b b
 bass       g#- a b b
 
 # measure 10
-soprano    g#/2 g#/8 g# g#/8
-alto       e/2 e/8 e e/8
-tenor      b/2 b/8 b b/8
-bass       e/2 e/8 e e/8
+soprano    g#/2 = g#/8 g# g#/8
+alto       e/2 = e/8 e e/8
+tenor      b/2 = b/8 b b/8
+bass       e/2 = e/8 e e/8
 
 # measure 11
 soprano    f# e f# e/8 f#/8
@@ -91,12 +91,12 @@ bass       e/8 e/8 e/8 e/8 c#/8 c#/8 c#/8 c#/8
 
 # measure 14
 soprano    b a#/8 a#/8 b/2
-alto       g# fb/8 fb/8 g#/2
+alto       g# g/8 g/8 g#/2
 tenor      d# d# d#/2
 bass       d# d# g#/2
 
 # measure 15
-soprano    b b an a/8 a/8
+soprano    b b an an/8 an/8
 alto       g# g# d# d#/8 d#/8
 tenor      d# d# b b/8 b/8
 bass       g# g# f# f#/8 f#/8
@@ -164,7 +164,7 @@ bass       R/8 e e/8 b c#
 # measure 26
 soprano    f# e/8 f#/8 g#. g#/8
 alto       d# c#/8 d#/8 e. e/8
-tenor      b g#/8 b/8 b. b/8
+tenor      b g#/8 b/8 b. = b/8
 bass       b c#/8 b/8 e. e/8
 
 # measure 27
