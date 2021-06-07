@@ -92,8 +92,8 @@ bass       bb/2. bb/8 = bb/8
 # measure 14
 soprano    bb g g f/8 eb/8
 alto       eb eb eb d/8 c/8
-tenor      g bb g g/8 g/8
-bass       bb bb bn c/8 c/8
+tenor      g bb g g/8 = g/8
+bass       bb bb bn c/8 = c/8
 
 # measure 15
 soprano    g f eb bb-
