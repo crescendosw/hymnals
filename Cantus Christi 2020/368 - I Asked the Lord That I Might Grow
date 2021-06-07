@@ -78,7 +78,7 @@ tenor      bn a
 bass       e c
 
 # measure 12
-soprano    bn/8 c/8 b/8 a/8
+soprano    bn/8 c/8 bn/8 a/8
 alto       f e
 tenor      a g#
 bass       d e
