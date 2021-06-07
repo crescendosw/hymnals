@@ -68,7 +68,7 @@ bass       d/2. d
 # measure 10
 soprano    a b cn d
 alto       f# f# g f#
-tenor      d d e+ d/8 c/8
+tenor      d d e+ d/8 cn/8
 bass       cn+ b+ b+ a+
 
 # measure 11
@@ -80,7 +80,7 @@ bass       g/2 g-/2
 # measure 12
 soprano    b a g f#
 alto       g f# e d#
-tenor      cn c b b
+tenor      cn cn b b
 bass       a a b b
 
 # measure 13
