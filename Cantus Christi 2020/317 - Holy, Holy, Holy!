@@ -24,10 +24,10 @@ tenor      e g f# a
 bass       a/2 d/2
 
 # measure 3
-soprano    b b b b
+soprano    b = b b b
 alto       b c# d e
 tenor      g a b c#
-bass       g- g- g g
+bass       g- = g- g g
 
 # measure 4
 soprano    a/2 f#/2
@@ -42,10 +42,10 @@ tenor      a a a a
 bass       c# c# d c#
 
 # measure 6
-soprano    d d c# a
+soprano    d = d c# a
 alto       d e e f#
 tenor      f# g# a a
-bass       b b c# d
+bass       b = b c# d
 
 # measure 7
 soprano    e a b. a/8
@@ -66,10 +66,10 @@ tenor      f# f# d- d-
 bass       d d b b
 
 # measure 10
-soprano    a a a/2
+soprano    a = a a/2
 alto       c# e d c#
 tenor      e g f# a
-bass       a a d/2
+bass       a = a d/2
 
 # measure 11
 soprano    b. b/8 b b
