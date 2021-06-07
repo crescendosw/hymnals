@@ -68,8 +68,8 @@ bass       ab+ ab+ ab+
 # measure 10
 soprano    c bb g
 alto       ab+ g eb
-tenor      eb+ eb+ bb
-bass       eb eb eb
+tenor      eb+ = eb+ bb
+bass       eb = eb eb
 
 # measure 11
 soprano    bb eb d-
