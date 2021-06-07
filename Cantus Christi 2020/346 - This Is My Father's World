@@ -80,14 +80,14 @@ bass       eb/2. c/8 d/8
 # measure 12
 soprano    c eb+ d c
 alto       g g f eb
-tenor      c bb an g/8 a/8
+tenor      c bb an g/8 an/8
 bass       eb c f f
 
 # measure 13
-soprano    bb/2. c/8 c/8
-alto       d/2. d/8 d/8
-tenor      bb/2. ab/8 ab/8
-bass       bb/2. bb/8 bb/8
+soprano    bb/2. c/8 = c/8
+alto       d/2. d/8 = d/8
+tenor      bb/2. ab/8 = ab/8
+bass       bb/2. bb/8 = bb/8
 
 # measure 14
 soprano    bb g g f/8 eb/8
@@ -103,9 +103,9 @@ bass       g- bn c d
 
 # measure 16
 soprano    eb/8 f/8 g bb f/8 g/8
-alto       eb eb eb d/8 d/8
+alto       eb eb eb d/8 = d/8
 tenor      g/8 ab/8 bb bb ab/8 bb/8
-bass       eb eb g-/8 ab/8 bb/8 bb/8
+bass       eb eb g-/8 ab/8 bb/8 = bb/8
 
 # measure 17
 soprano    eb/2.
