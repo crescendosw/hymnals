@@ -38,7 +38,7 @@ bass       db db bb db eb f/2.
 
 # measure 5
 soprano    f f/2 eb f/2 g ab ab g/2
-alto       d d/2 c d/2 en f f e/2
+alto       d d/2 c d/2 en f f en/2
 tenor      bb bb/2 g bb/2 bb c c c/2
 bass       bb bb/2 c bb/2 g- f- f- c/2
 
