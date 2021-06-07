@@ -2,7 +2,7 @@ title      Come Thou, O Come
 author     Anselm of Canterbury (1033-1109); tr. Gerard Moultrie (1829-1885)HERSTMONCEUX
 composer   Ebenezer Prout (1835-1909)
 key        G
-tempo      101
+tempo      115
 rhythm     0 : 4
 verse_count 4
 music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/382%20Come%20Thou,%20O%20Come.pdf
@@ -42,10 +42,10 @@ tenor      g/2 g g
 bass       b/2 c d
 
 # measure 6
-soprano    b. a/8 a/2
-alto       d. c#/8 c#/2
-tenor      g. g/8 g/2
-bass       e. e/8 e/2
+soprano    b. a/8 a/2 =
+alto       d. c#/8 c#/2 =
+tenor      g. g/8 g/2 =
+bass       e. e/8 e/2 =
 
 # measure 7
 soprano    a g f# g
