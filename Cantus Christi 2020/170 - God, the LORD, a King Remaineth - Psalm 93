@@ -43,7 +43,7 @@ bass       eb eb c. c/8
 
 # measure 6
 soprano    an c eb+ d
-alto       f a+ a+ bb+
+alto       f an+ an+ bb+
 tenor      c c c bb
 bass       f f f# g
 
@@ -56,7 +56,7 @@ bass       c eb f f
 # measure 8
 soprano    d c bb/2
 alto       f eb d/2
-tenor      an a bb/2
+tenor      an an bb/2
 bass       f- f- bb/2
 
 # measure 9
