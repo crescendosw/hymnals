@@ -2,7 +2,7 @@ title      Hail Sovereign Love, That First Began
 author     John Hyatt Brewer (1856-1931)HIDING PLACE [ATONEMENT]
 composer   John Wyeth's Repository of Sacred Music, II, 1813
 key        Bb
-tempo      100
+tempo      110
 rhythm     4 : 4
 verse_count 6
 music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/356%20Hail%20Sovereign%20Love,%20That%20First%20Began.pdf
@@ -36,10 +36,10 @@ tenor      bb c d d
 bass       g f# g d
 
 # measure 5
-soprano    bb c d/2
-alto       g f f/2
-tenor      bb c/8 bb/8 a/2
-bass       g a+ d/2
+soprano    bb c d/2 =
+alto       g f f/2 =
+tenor      bb c/8 bb/8 a/2 =
+bass       g a+ d/2 =
 
 # measure 6
 soprano    d/2 d/2
