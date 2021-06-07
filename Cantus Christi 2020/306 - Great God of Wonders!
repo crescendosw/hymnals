@@ -159,25 +159,25 @@ bass       g-/2 g-
 soprano    g R g
 alto       e R c
 tenor      c R bb
-bass       c/8 R b/8 c/8 d/8 e/8 c/8
+bass       c/8 b/8 c/8 d/8 e/8 c/8
 
 # measure 26
 soprano    a R a
 alto       c R f
 tenor      a R a
-bass       f/8 R e/8 d/8 e/8 f/8 d/8
+bass       f/8 e/8 d/8 e/8 f/8 d/8
 
 # measure 27
 soprano    b R b
 alto       d R d
 tenor      g R g
-bass       g/8 f#/8 g/8 R fn/8 e/8 d/8
+bass       g/8 f#/8 g/8 fn/8 e/8 d/8
 
 # measure 28
 soprano    c R g
 alto       e R b
 tenor      g R g/8 f/8
-bass       c/8 R e/8 g/8 f/8 e/8 d/8
+bass       c/8 e/8 g/8 f/8 e/8 d/8
 
 # measure 29
 soprano    g/2 g
