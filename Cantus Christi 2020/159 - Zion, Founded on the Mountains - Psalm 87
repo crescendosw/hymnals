@@ -72,10 +72,10 @@ tenor      e+ c d d
 bass       c e g g
 
 # measure 11
-soprano    g b b a
-alto       d g g f#
-tenor      b c# d d
-bass       g e d d
+soprano    g b b a(2)
+alto       d g g f#(2)
+tenor      b c# d d(2)
+bass       g e d d(2)
 
 # measure 12
 soprano    b a g c
