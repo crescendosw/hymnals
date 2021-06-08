@@ -49,10 +49,10 @@ tenor      a g# f# c#
 bass       a a a a
 
 # measure 7
-soprano    f#/1
+soprano    f#/1 =
 alto       e/1
 tenor      b/2 f#/2
-bass       b/1
+bass       b/1 =
 
 # measure 8
 soprano    f#/1
@@ -97,10 +97,10 @@ tenor      a g# f# c#
 bass       a a a a
 
 # measure 15
-soprano    b/1
+soprano    b/1 =
 alto       e/1
 tenor      b/2 f#/2
-bass       b/1
+bass       b/1 =
 
 # measure 16
 soprano    b/1
@@ -145,10 +145,10 @@ tenor      c# e+ e+ c#
 bass       a a a a
 
 # measure 23
-soprano    f#/1
+soprano    f#/1 =
 alto       e/1
 tenor      b/2 f#/2
-bass       b/1
+bass       b/1  =
 
 # measure 24
 soprano    f#/1
