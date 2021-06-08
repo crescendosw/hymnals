@@ -54,10 +54,10 @@ tenor      c/2 g g
 bass       a/2 b c
 
 # measure 8
-soprano    d-/1
-alto       a/1
-tenor      f/1
-bass       d/1
+soprano    d-/1 =
+alto       a/1 =
+tenor      f/1 =
+bass       d/1 =
 
 # measure 9
 soprano    d-/2 g/2
@@ -126,10 +126,10 @@ tenor      c/2 g g
 bass       a/2 b c
 
 # measure 20
-soprano    d-/1
-alto       a/1
-tenor      f/1
-bass       d/1
+soprano    d-/1 =
+alto       a/1 =
+tenor      f/1 =
+bass       d/1 =
 
 # measure 21
 soprano    d-/2
