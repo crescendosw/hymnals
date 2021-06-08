@@ -67,7 +67,7 @@ bass       an+ bb+ en f
 
 # measure 10
 soprano    g/2. g
-alto       en/2. e
+alto       en/2. en
 tenor      c/2. c
 bass       c/2. c
 
@@ -80,7 +80,7 @@ bass       c f bb g-
 # measure 12
 soprano    c ab/8 bb/8 g. f/8
 alto       c c/8 bb/8 bb bb
-tenor      ab f f e
+tenor      ab f f en
 bass       ab db c. c/8
 
 # measure 13
