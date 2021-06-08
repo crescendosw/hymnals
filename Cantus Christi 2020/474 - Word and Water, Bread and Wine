@@ -37,10 +37,10 @@ tenor      g e a g
 bass       g- g- a a
 
 # measure 5
-soprano    b b b/2
-alto       d# d# e/2
-tenor      f# f# e/2
-bass       b b e/2
+soprano    b b b/2 =
+alto       d# d# e/2 =
+tenor      f# f# e/2 =
+bass       b b e/2 =
 
 # measure 6
 soprano    b/2 R/2
@@ -73,7 +73,7 @@ tenor      g a b a
 bass       d/2. d
 
 # measure 11
-soprano    b/2 b b
+soprano    b/2 = b b
 alto       d d d/2
 tenor      g g g/2
 bass       g- g- g- g
@@ -88,7 +88,7 @@ bass       g g e e
 soprano    g f# e e
 alto       R/2. b
 tenor      R/2. b
-bass       g b b e
+bass       b b e g
 
 # measure 14
 soprano    b g b e+
