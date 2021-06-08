@@ -91,7 +91,7 @@ bass       f# d c#
 
 # measure 14
 soprano    d c# b
-alto       fn/2 f
+alto       fn/2 fn
 tenor      a/2 a
 bass       b c# d
 
@@ -127,7 +127,7 @@ bass       g/8 f#/8 e f#/8 g/8
 
 # measure 20
 soprano    a f# e
-alto       cn/2 c
+alto       cn/2 cn
 tenor      a/2 a
 bass       f# d f#
 
