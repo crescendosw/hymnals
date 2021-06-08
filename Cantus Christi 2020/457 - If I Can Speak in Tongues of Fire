@@ -44,9 +44,9 @@ bass       c e e c
 
 # measure 6
 soprano    e c- c-/2
-alto       c b a/2
+alto       c b a/2 =
 tenor      g e e/2
-bass       c e d/2
+bass       c e d/2 =
 
 # measure 7
 soprano    d-/2. d-
