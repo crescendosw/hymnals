@@ -2,7 +2,7 @@ title      Arise, My Soul, Arise!
 author     Johan Kahl (1721-1746); tr. Ernest Ryden, 1958 (c)SUOMI
 composer   Finnish Folk tune; arr. Ulrich S. Leupold (1909-1970)
 key        F
-tempo      50
+tempo      62
 rhythm     2 : 4
 verse_count 2
 copyright  Text: Augsburg Fortress, 1958; admin. 1517 Media. Used by permission.
@@ -37,10 +37,10 @@ tenor      a/8 a/8 a/8 a/8
 bass       d/8 f/8 d/8 c/8
 
 # measure 5
-soprano    g a
-alto       d c#
-tenor      d- e
-bass       bb a
+soprano    g a =
+alto       d c# =
+tenor      d- e =
+bass       bb a =
 
 # measure 6
 soprano    a a/8. bn/16
@@ -91,10 +91,10 @@ tenor      a/8 a/8 a/8 a/8
 bass       d/8 f/8 d/8 c/8
 
 # measure 14
-soprano    g a
-alto       d c#
-tenor      d- e
-bass       bb a
+soprano    g a =
+alto       d c# =
+tenor      d- e =
+bass       bb a =
 
 # measure 15
 soprano    a a/8. bn/16
@@ -193,10 +193,10 @@ tenor      a/8 a/8 a/8 g/8
 bass       d/8 f/8 d/8 bb/8
 
 # measure 31
-soprano    a a/8. bn/16
-alto       c# d/8. d/16
-tenor      e f/8. f/16
-bass       a d/8. d/16
+soprano    a(2) a/8. bn/16
+alto       c#(2) d/8. d/16
+tenor      e(2) f/8. f/16
+bass       a(2) d/8. d/16
 
 # measure 32
 soprano    c/8 a/8 a/8 f/8
