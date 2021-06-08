@@ -10,6 +10,7 @@ voice      unison E4 to D5
 voice      alto    A3 to G4
 voice      tenor   E3 to D4
 voice      bass    A2 to G3
+type       unison
 
 # measure 1
 unison    a
@@ -63,7 +64,7 @@ unison    d/2. a
 unison    d-/2 b/2
 
 # measure 18
-unison    a/1
+unison    a/1 =
 
 # measure 19
 unison    a/2.
