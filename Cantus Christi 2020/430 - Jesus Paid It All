@@ -37,9 +37,9 @@ bass       bb. bb/8 c/8 bb/8
 
 # measure 5
 soprano    g/2 eb/8 g/8
-alto       eb/2 eb/8 eb/8
+alto       eb/2 eb/8 = eb/8
 tenor      bb/2 g/8 bb/8
-bass       eb/2 eb/8 eb/8
+bass       eb/2 eb/8 = eb/8
 
 # measure 6
 soprano    bb. c/8 bb/8 g/8
@@ -49,7 +49,7 @@ bass       eb. eb/8 eb/8 eb/8
 
 # measure 7
 soprano    eb/2 eb/8 f/8
-alto       bb/2 eb/8 eb/8
+alto       bb/2 eb/8 = eb/8
 tenor      g/2 bb/8 c/8
 bass       eb/2 g/8 ab+/8
 
@@ -96,10 +96,10 @@ tenor      eb+. eb+/8 eb+/8 bb/8
 bass       eb. eb/8 eb/8 eb/8
 
 # measure 15
-soprano    eb+/8 d/8 c eb+
-alto       g/8 bb+/8 ab+ eb
-tenor      bb/8 eb+/8 eb+ c
-bass       eb/8 g/8 ab+ an+
+soprano    eb+/8 d/8 c(2) eb+
+alto       g/8 bb+/8 ab+(2) eb
+tenor      bb/8 eb+/8 eb+(2) c
+bass       eb/8 g/8 ab+(2) an+
 
 # measure 16
 soprano    g. ab/8 g/8 f/8
