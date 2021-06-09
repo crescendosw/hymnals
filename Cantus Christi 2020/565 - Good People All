@@ -103,9 +103,9 @@ bass       g a+ f#/2. g
 
 # measure 16
 soprano    c d b g/2 a
-alto       fn fn d d/2 d
+alto       fn fn d = d/2 d
 tenor      a b g b/2 a
-bass       fn d g g/2 f#
+bass       fn d g = g/2 f#
 
 # measure 17
 soprano    g g g/2.
