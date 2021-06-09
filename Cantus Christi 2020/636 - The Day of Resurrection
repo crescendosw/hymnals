@@ -2,7 +2,7 @@ title      The Day of Resurrection
 author     John of Damascus, 700's; tr. John Mason Neale (1818-1866)LANCASHIRE
 composer   Henry Smart, 1836
 key        D
-tempo      101
+tempo      130
 rhythm     4 : 4
 verse_count 3
 music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/636%20The%20Day%20of%20Resurrection.pdf
@@ -68,7 +68,7 @@ bass       a/2. a
 # measure 10
 soprano    a f# d- d
 alto       d d a f#
-tenor      f# cn c c
+tenor      f# cn cn cn
 bass       d a+ f# d
 
 # measure 11
