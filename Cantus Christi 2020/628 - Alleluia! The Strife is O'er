@@ -2,7 +2,7 @@ title      Alleluia! The Strife Is O'er
 author     Latin hymn, c. 1600s; tr. Francis Pott (1832-1909)VICTORY
 composer   Giovanni Pierluigi de Palastrina (1525-1594); arr. William H. Monk (1823-1889)
 key        D
-tempo      100
+tempo      110
 rhythm     3 : 4
 verse_count 5
 music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/628%20Alleluia!%20The%20Strife%20Is%20O'er.pdf
@@ -15,7 +15,7 @@ voice      bass    A2 to G3
 soprano    R f# f#
 alto       R d d
 tenor      R a a
-bass       R d- d d
+bass       R d d
 
 # measure 2
 soprano    g/2.
@@ -129,7 +129,7 @@ bass       a+/2.
 soprano    R a d
 alto       R d f#
 tenor      R d a
-bass       R d- f#
+bass       R f# d
 
 # measure 21
 soprano    c#/2.
