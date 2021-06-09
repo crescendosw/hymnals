@@ -2,7 +2,7 @@ title      Now Thank We All Our God
 author     Martin Rinkart, c. 1636; tr. Catherine Winkworth, 1858NUN DANKET ALLE GOTT
 composer   Johann Crüger, 1647; harm. Felix Mendelssohn, 1840; alt.
 key        F
-tempo      101
+tempo      130
 rhythm     4 : 4
 verse_count 3
 music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/681%20Now%20Thank%20We%20All%20Our%20God.pdf
@@ -36,10 +36,10 @@ tenor      bb c c c
 bass       g a+/8 bb+/8 c+ f
 
 # measure 5
-soprano    g/2 f c
-alto       f e f f
-tenor      c/2 a a
-bass       c/2 f- f
+soprano    g/2 f(2) c
+alto       f e f(2) f
+tenor      c/2 a(2) a
+bass       c/2 f-(2) f
 
 # measure 6
 soprano    c c d d
@@ -60,10 +60,10 @@ tenor      bb c g e
 bass       d c bb a
 
 # measure 9
-soprano    g/2 f g
-alto       d c/8 bb/8 a c
-tenor      g/8 f/8 e f e
-bass       bb c f- c
+soprano    g/2 f(2) g
+alto       d c/8 bb/8 a(2) c
+tenor      g/8 f/8 e f(2) e
+bass       bb c f-(2) c
 
 # measure 10
 soprano    g g a a
@@ -78,7 +78,7 @@ tenor      c/2. c
 bass       c/2. e
 
 # measure 12
-soprano    a/8 bn/8 c d b
+soprano    a/8 bn/8 c d bn
 alto       f g f e
 tenor      c c c/8 bn/8 a/8 g#/8
 bass       f e d e
