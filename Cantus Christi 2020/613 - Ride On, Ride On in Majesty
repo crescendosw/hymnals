@@ -36,10 +36,10 @@ tenor      eb f f f
 bass       g- bb f- d
 
 # measure 5
-soprano    f en f f
-alto       d c/8 bb/8 a c
-tenor      g g f a
-bass       bb c f- f/8 eb/8
+soprano    f en f(2) f
+alto       d c/8 bb/8 a(2) c
+tenor      g g f(2) a
+bass       bb c f-(2) f/8 eb/8
 
 # measure 6
 soprano    bb c d bb
@@ -60,10 +60,10 @@ tenor      bb bb a g
 bass       d eb f g
 
 # measure 9
-soprano    bb a bb
-alto       c eb d
-tenor      g f f
-bass       eb f bb
+soprano    bb a bb(2)
+alto       c eb d(2)
+tenor      g f f(2)
+bass       eb f bb(2)
 
 
 
