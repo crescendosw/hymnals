@@ -21,25 +21,25 @@ voice      bass     A2 to G3
 
 # unison
 
-soprano    e/8 f/8 g/8 a/8 g/8 f/8 g/8 f/8 e(1) g/8 a/8 b/8 c/8  b/8 g/8 a/8 b(1)
-alto       R/2             c       d       e(1) e/2              e       f/8 f(1)
-tenor      g/8 a/8 b       R       b       g(1) R/2              b       c/8 d(1)
-bass       e/2             a       b       e(1) e/8 f/8 g/8 a+/8 g       f/8 b+(1)
+unison      e/8 f/8 g/8 a/8 g/8 f/8 g/8 f/8 e(1) g/8 a/8 b/8 c/8  b/8 g/8 a/8 b(1)
+#alto       R/2             c       d       e(1) e/2              e       f/8 f(1)
+#tenor      g/8 a/8 b       R       b       g(1) R/2              b       c/8 d(1)
+#bass       e/2             a       b       e(1) e/8 f/8 g/8 a+/8 g       f/8 b+(1)
 
-soprano    c/8 d/8 e+/8 b/8 b/8  a/8 g/8 f/8 e(1) c-/8 d-/8 e/8 f/8 e/8 c-/8 d-/8 e(1)
-alto       e/2              e        d       c(1) R/2               R        R/8  R(1)
-tenor      c       b        b/8  c/8 b       g(1) a         b       g        b/8  g(1)
-bass       a+      g        g-/8 a/8 b       c(1) a         g-      c        b/8  e(1)
+unison      c/8 d/8 e+/8 b/8 b/8  a/8 g/8 f/8 e(1) c-/8 d-/8 e/8 f/8 e/8 c-/8 d-/8 e(1)
+#alto       e/2              e        d       c(1) R/2               R        R/8  R(1)
+#tenor      c       b        b/8  c/8 b       g(1) a         b       g        b/8  g(1)
+#bass       a+      g        g-/8 a/8 b       c(1) a         g-      c        b/8  e(1)
 
-soprano    e/8 f/8 g/8 a/8 g/8 f/8 b/8 c/8 b/8 g/8 a/8 b(1) e/8 d-/8
-alto       R/2             c       e       e.          d(1) b
-tenor      g/8 a/8 b       R       e       e.          f(1) g
-bass       e/2             a       g-.         c       b(1) g-
+unison      e/8 f/8 g/8 a/8 g/8 f/8 b/8 c/8 b/8 g/8 a/8 b(1) e/8 d-/8
+#alto       R/2             c       e       e.          d(1) b
+#tenor      g/8 a/8 b       R       e       e.          f(1) g
+#bass       e/2             a       g-.         c       b(1) g-
 
-soprano    c-/8 d-/8 e/8  c-/8 b-(1) e/8 f/8 g/8 b/8 g/8 e/8 f       e(1)
-alto       a         g-/8 a/8  f-(1) b/2             c       c/8 d/8 e(1)
-tenor      e/2                 d-(1) e/2             e/8 g/8 f       g(1)
-bass       a/8  b/8  c/8  a/8   b(1) g-/2            c       a/8 b/8 e(1)
+unison      c-/8 d-/8 e/8  c-/8 b-(1) e/8 f/8 g/8 b/8 g/8 e/8 f       e(1)
+#alto       a         g-/8 a/8  f-(1) b/2             c       c/8 d/8 e(1)
+#tenor      e/2                 d-(1) e/2             e/8 g/8 f       g(1)
+#bass       a/8  b/8  c/8  a/8   b(1) g-/2            c       a/8 b/8 e(1)
 
 verse      Of     the   Fa - ther's love    be  - got - ten    Ere    the  worlds  be - gan    to   be,
 verse      At     His  Word   the   worlds were   fra - med;   He     com - mand - ed;  it    was   done:
