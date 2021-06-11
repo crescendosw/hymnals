@@ -8,7 +8,7 @@ metre      L.M.
 composer   Jacob Kimball, 1784
 key        C
 rhythm     4 : 4
-tempo      160
+tempo      150
 
 status     header  tune  double  checked
 
@@ -47,22 +47,3 @@ alto       e/2                 e e/8 e/8 | e f/8 e/8            g g  | g/2.     
 tenor      g/8. a/16 g/8. f/16 g g/8 g/8 | c/8. d/16 e+/8. d/16 c f+ | e+/8. d/16 c/8. d/16  e+ d       | c/1
 bass       c/2.                  c/8 c/8 | c/2.                   d  | e/8.  f/16 e/8. f/16  g  g-      | c/1
 
-soprano    R/1           | R/1
-alto       R/1           | R/1
-tenor      R/1           | R/2 g g/8 g/8
-bass       R/2 c c/8 c/8 | g f e d
-
-soprano    R/2 c c/8 c/8 | g g     c/8. d/16 c/8. b/16 | a/2   g/2
-alto       R/1           | R/2     e e/8 e/8           | d  e  f e
-tenor      c g c d       | e+. d/8 c c/8 c/8           | f+ e+ d c
-bass       c/2 f f/8 f/8 | e e     c/2                 | d  c  b a
-
-soprano    g/2  b/8. c/16 b/8. a/16 | g/8. a/16 g/8. f/16 e         e/8  f/8  | g a g g
-alto       d/2  g/8. a/16 g/8. f/16 | e/8. f/16 e/8. d/16 c         c/8  d/8  | e d d d
-tenor      d/2  d         d/8  d/8  | c         c         g/8. a/16 g/8. f/16 | e f g/2
-bass       g-/2 g-        g-/8 g-/8 | c         c         e/8. f/16 e/8. d/16 | c d g-/2
-
-soprano    g/2                 g g/8 g/8 | g/2.                   b  | c/8.  d/16 e+/8. d/16 c  d/8 b/8 | c/1
-alto       e/2                 e e/8 e/8 | e f/8 e/8            g g  | g/2.                     g/8 f/8 | e/1
-tenor      g/8. a/16 g/8. f/16 g g/8 g/8 | c/8. d/16 e+/8. d/16 c f+ | e+/8. d/16 c/8. d/16  e+ d       | c/1
-bass       c/2.                  c/8 c/8 | c/2.                   d  | e/8.  f/16 e/8. f/16  g  g-      | c/1
