@@ -9,7 +9,7 @@ rhythm     4 : 4
 tempo      120
 
 #hyperlink  https://vimeo.com/180435869
-
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/90%20Psalm%2046%20-%20Erb%20prose.pdf
 status     header  tune  double  checked  lyrics
 
 voice      soprano E4 to D5
